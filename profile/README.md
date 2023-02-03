@@ -2,6 +2,8 @@
 
 This project aims to apply “gamification” pedagogy in design and development of a new approach to the introductory computer science courses in Python. The outcome, a persistent, immersive digital environment called `term-world` provides both a playground and persistent digital metaphor through which to consider real-world ethical and civil questions regarding governance, justice, equity, and other social infrastructures not typically included in CS education. This project leverages interdisciplinary principles and considers students as co-developers to explore new applications of pedagogy not necessarily limited to the discipline of computer science.
 
+## Acknowledgements
+
 This work has generously been funded by the Allegheny College Undergraduate Research, Scholarship, and Creative Activities (URSCA) office, namely through the following Allegheny College internal funding sources:
 
 * McCune Dean’s Fund for Student and Faculty Research fund
