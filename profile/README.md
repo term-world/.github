@@ -2,6 +2,22 @@
 
 This project aims to apply “gamification” pedagogy in design and development of a new approach to the introductory computer science courses in Python. The outcome, a persistent, immersive digital environment called `term-world` provides both a playground and persistent digital metaphor through which to consider real-world ethical and civil questions regarding governance, justice, equity, and other social infrastructures not typically included in CS education. This project leverages interdisciplinary principles and considers students as co-developers to explore new applications of pedagogy not necessarily limited to the discipline of computer science.
 
+## Organization
+
+This repository contains all of the technical and curriculum materials necessary to run an instance of `term-world`. 
+
+### Technical projects
+
+* [`term-hub`](https://github.com/term-world/term-hub)
+* [`world-container`](https://github.com/term-world/world-container)
+* [`world-configure`](https://github.com/term-world/world-configure)
+
+### Curriculum
+
+#### `term-world`
+
+This curriculum focuses on civic participation, data transparency, and civil society.
+
 ## Acknowledgements
 
 This work has generously been funded by the Allegheny College Undergraduate Research, Scholarship, and Creative Activities (URSCA) office, namely through the following Allegheny College internal funding sources:
