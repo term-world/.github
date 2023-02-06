@@ -16,7 +16,7 @@ This repository contains all of the technical and curriculum materials necessary
 
 #### `term-world`
 
-This curriculum focuses on civic participation, data transparency, and civil society.
+The `term-world` curriculum focuses on civic participation, data transparency, and civil society as vehicles for motivating student engagement with and understanding of responsibilities to a neighborly world.
 
 ## Acknowledgements
 
