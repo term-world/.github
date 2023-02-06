@@ -16,4 +16,4 @@ In addition, the project owes gratitude for funding from:
 
 We are grateful for their support of this project.
 
-This work is intellectually indebted to [Donald Bitzer](https://www.csc.ncsu.edu/people/bitzer/)'s creation of PLATO, which we learned about by way of Brian Dear's compelling, well-researched account of that system, [_The Friendly Orange Glow_](http://www.friendlyorangeglow.com/).
+This work is intellectually indebted to [Donald Bitzer](https://www.csc.ncsu.edu/people/bitzer/)'s creation of [PLATO](https://en.wikipedia.org/wiki/PLATO_(computer_system)), which we learned about by way of Brian Dear's compelling, well-researched account of that system, [_The Friendly Orange Glow_](http://www.friendlyorangeglow.com/).
