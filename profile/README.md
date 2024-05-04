@@ -1,6 +1,6 @@
 # `term-world`
 
-This project aims to apply “gamification” pedagogy in design and development of an approach to the introductory computer science (CS) courses in Python. The outcome, a persistent, immersive digital environment called `term-world` provides both a playground and persistent digital metaphor through which to consider real-world ethical and civil questions regarding governance, justice, equity, data transparency, and other social infrastructures not typically included in CS education. This project leverages interdisciplinary principles and considers students as co-developers to explore new applications of pedagogy not necessarily limited to the discipline of computer science.
+This project aims to apply gamification-as-pedagogy in design and development of an approach to the introductory computer science (CS) courses in Python. The outcome, a persistent, immersive digital environment called `term-world` provides both a playground and persistent digital metaphor through which to consider real-world ethical and civil questions regarding governance, justice, equity, data transparency, and other social infrastructures not typically included in CS education. This project leverages interdisciplinary principles and considers students as co-developers to explore applications of teaching strategies not necessarily limited to the discipline of computer science.
 
 ## Acknowledgements
 
